@@ -1,0 +1,18 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+
+# OS
+.DS_Store
+
+# Build output
+dist/
+
+# Ollama (models + keys)
+ollama/models/
+ollama/id_ed25519
+ollama/id_ed25519.pub
+
+# Database dumps
+#backup.sql

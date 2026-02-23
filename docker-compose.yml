@@ -1,0 +1,53 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: api/dockerfile
+    ports:
+      - '8080:8080'
+    links:
+      - db
+      - scheduler
+    environment:
+      POSTGRES_URL: postgresql://postgres:postgres@db:5432/dockerapp
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      - ./api:/home/node/code
+      - /home/node/code/node_modules
+      - ./db:/home/node/db
+      - ./scheduler:/home/node/scheduler
+    command: npm run dev
+
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: dockerapp
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    command: postgres -c shared_preload_libraries=vector
+
+  scheduler:
+    build:
+      context: .
+      dockerfile: scheduler/dockerfile
+    links:
+      - db
+    environment:
+      POSTGRES_URL: postgresql://postgres:postgres@db:5432/dockerapp
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      - ./scheduler:/home/node/code
+      - ./db:/home/node/db
+    command: npm run dev
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - '11434:11434'
+    volumes:
+      - ./ollama:/root/.ollama
+volumes:
+  postgres_data:
