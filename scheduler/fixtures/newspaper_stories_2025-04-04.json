@@ -1,0 +1,1647 @@
+[
+  {
+    "date": "2025-04-04",
+    "name": "The Kansas City Star",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "stories": [
+      {
+        "headline": "Youth Chorus of Kansas City to play Carnegie Hall",
+        "summary": "The Youth Chorus of Kansas City has been invited to perform at Carnegie Hall, highlighting recognition for the local group and providing an exciting opportunity for young performers.",
+        "sentiment": "positive",
+        "people": ["Ryan Main"],
+        "categories": ["Arts", "Local Interest", "Music"]
+      },
+      {
+        "headline": "World reckons with economic fallout from Trump’s tariffs",
+        "summary": "The story reviews the global economic response to tariffs imposed by former President Trump, detailing impacts and reactions from affected countries and industries internationally.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Howard Lutnick"],
+        "categories": ["Trade", "Economics", "International Relations"]
+      },
+      {
+        "headline": "Kansas vaccine law could be struck down",
+        "summary": "The story discusses the potential revocation of a Kansas law allowing exemptions from employer-mandated COVID-19 vaccinations, prompted by complaints from healthcare workers and review by state Supreme Court.",
+        "sentiment": "neutral",
+        "people": ["Kaitlin Keeran", "Joe Biden", "Laura Kelly"],
+        "categories": ["Law", "Employment", "Healthcare"]
+      },
+      {
+        "headline": "Missouri senator under fire for anti-LGBTQ comments",
+        "summary": "A Missouri senator is facing criticism after making comments during testimony, telling a transgender medical student that he does not listen to doctors who disagree with God, amidst discussion on anti-LGBTQ legislature.",
+        "sentiment": "negative",
+        "people": ["Charlie Adams", "Joe Nicola"],
+        "categories": ["Politics", "LGBTQ Rights"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Washington Post",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "stories": [
+      {
+        "headline": "After a ban, a trans girl competes with the boys",
+        "summary": "A Fairfax high-school athlete resolved to persist in sports despite a governmental ban preventing transgender youth from competing in alignment with their gender identity.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Sports", "Human Rights", "Education"]
+      },
+      {
+        "headline": "Fear of fallout from Trump's trade war leaves some Republicans in a bind",
+        "summary": "Republicans struggle to navigate politically as Trump's tariff war potentially harms their constituent businesses and state economies.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Onslaught of tariffs ripples across globe",
+        "summary": "President Trump's escalating tariff war sends tremors through global markets, causing major stock indices to decline significantly, unsettling investors and businesses worldwide.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["International Affairs", "Economy", "Politics"]
+      },
+      {
+        "headline": "Deep angst at a Social Security office, where falsehoods fly",
+        "summary": "Social Security offices face disruptive misinformation, escalating tensions and confusion among beneficiaries.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Social Issues", "Government"]
+      },
+      {
+        "headline": "Trump ousts NSC staffers after visit from far-right ally",
+        "summary": "President Trump removes several key staffers from the National Security Council, believed to be connected to dissatisfaction from a far-right ally.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Baltimore Sun",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "stories": [
+      {
+        "headline": "Sources: Several ousted at NSC",
+        "summary": "President Trump has removed several National Security Council officials over loyalty concerns.",
+        "sentiment": "negative",
+        "people": [
+          "Donald Trump",
+          "Laura Loomer",
+          "JD Vance",
+          "Susie Wiles",
+          "Waltz",
+          "Yevgeny Prigozhin"
+        ],
+        "categories": ["Politics"]
+      },
+      {
+        "headline": "Stocks fall after Trump reveals tariffs",
+        "summary": "The stock market plunged significantly after President Trump announced new tariffs as part of his trade policy.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Finance"]
+      },
+      {
+        "headline": "UMMC pharmacist spied on women, lawsuit claims",
+        "summary": "A lawsuit accuses a UMMC pharmacist of illegally spying on women, targeting colleagues and residents.",
+        "sentiment": "negative",
+        "people": ["Matthew Bathula"],
+        "categories": ["Legal"]
+      },
+      {
+        "headline": "Experts discuss what goes into picking jurors for trial",
+        "summary": "Legal experts detail the process and considerations involved in selecting jurors for high-profile court trials.",
+        "sentiment": "neutral",
+        "people": ["Randolph Rice", "Don Murphy"],
+        "categories": ["Legal"]
+      },
+      {
+        "headline": "House moves to cut child abuse payouts",
+        "summary": "A legislative proposal seeks to limit Maryland's liability in child abuse lawsuits and reduce payouts.",
+        "sentiment": "neutral",
+        "people": ["C.T. Wilson", "Jason Buckel", "Susan Lee"],
+        "categories": ["Legislation"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Wall Street Journal",
+    "city": "New York",
+    "state": "New York",
+    "stories": [
+      {
+        "headline": "Raising Chickens Isn't All It's Cracked Up to Be",
+        "summary": "Homeowners find that raising backyard chickens is more complicated and costly than anticipated, leading some to abandon the practice.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Agriculture", "Lifestyle"]
+      },
+      {
+        "headline": "Stocks Suffer Steepest Slide Since 2020",
+        "summary": "U.S. markets plunged sharply, experiencing the most significant declines since 2020, as tariffs introduced by the administration sparked concerns of global retaliation and economic downturns.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Business & Finance", "Markets"]
+      },
+      {
+        "headline": "Trump's Tariffs Buffet Businesses as CEOs Rush to Deal With Fallout",
+        "summary": "Businesses rush to handle the economic fallout from new tariffs, impacting multiple industries and raising fears about consumer prices and overall economic health.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Economy", "Business & Finance"]
+      },
+      {
+        "headline": "President Looks to the Past to Remake the Economy",
+        "summary": "The current administration seeks inspiration in older economic models aiming to revitalize industries, though faced with contemporary challenges and significant skepticism.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Politics", "Economy"]
+      },
+      {
+        "headline": "North Korean Hackers Steal Billions in Crypto To Keep Regime Afloat",
+        "summary": "North Korean hackers allegedly stole billions from cryptocurrency exchanges, using the proceeds to finance the state's activities amid prolonged international sanctions.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["International Affairs", "Cybersecurity"]
+      },
+      {
+        "headline": "Leader Ousted In South Korea",
+        "summary": "The Constitutional Court of South Korea ousted the president after significant scandals, amid considerable national and international reactions.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Politics", "International Affairs"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Pittsburgh Post-Gazette",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "stories": [
+      {
+        "headline": "Bracing for Fallout",
+        "summary": "President Trump's tariffs are reshaping the U.S. economy and could create backlash from voters due to economic uncertainty and higher consumer prices.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Cuts to Title X put local clinics on alert",
+        "summary": "Cuts to Title X funding across Pennsylvania raised alarm among local clinics, which fear negative impacts on healthcare access for women across Western Pennsylvania.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Politics", "Health"]
+      },
+      {
+        "headline": "Storms kill 7 in the South, Midwest; floods in forecast",
+        "summary": "Severe storms led to the deaths of seven individuals across the South and Midwest regions of the U.S., with forecasts predicting continued flooding and storm conditions.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Disasters", "Weather"]
+      },
+      {
+        "headline": "Some in Pittsburgh celebrate, others worry",
+        "summary": "Pittsburgh residents show mixed reactions on Trump's tariff policies, as some see potential economic benefits while others fear economic repercussions.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Local", "Economy"]
+      },
+      {
+        "headline": "Hegseth app use under scrutiny",
+        "summary": "Pentagon is set to review military disclosures after concerns arose regarding the usage of a messaging app by Pete Hegseth that might compromise military security.",
+        "sentiment": "negative",
+        "people": ["Pete Hegseth"],
+        "categories": ["Military", "Technology"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Chicago Sun-Times",
+    "city": "Chicago",
+    "state": "Illinois",
+    "stories": [
+      {
+        "headline": "Car Buyer's Advice: Buy Now - Or Pay More Later",
+        "summary": "Consumers rush to purchase vehicles to avoid the upcoming tariffs that could significantly raise prices, with many highlighting Chevrolet's latest Equinox.",
+        "sentiment": "neutral",
+        "people": ["Nicole Rinconeño", "Ricardo Rinconeño", "Donald Trump"],
+        "categories": ["Economics", "Automotive"]
+      },
+      {
+        "headline": "'Titanique': The Goofiness Goes On and On in 'Titanic' Parody",
+        "summary": "The theatrical parody 'Titanique' continues to amuse audiences by playfully satirizing the iconic film Titanic.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Theatre", "Entertainment"]
+      },
+      {
+        "headline": "'I Don’t Know How to Save a Guy’s Life': Man Drags Victim of Hit-&-Run to Safety",
+        "summary": "A heroic civilian intervenes during a hit-and-run incident, pulling the victim to safety and potentially saving his life.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Crime", "Local News"]
+      },
+      {
+        "headline": "ICE Temporarily Releases Man So He Can Donate Kidney to Brother",
+        "summary": "ICE makes a rare compassionate decision, releasing a detained individual temporarily to allow crucial kidney donation to his ailing sibling.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Healthcare", "Immigration"]
+      },
+      {
+        "headline": "Wall Street Suffers Worst Day Since COVID Crashed Economy",
+        "summary": "The stock market endures its harshest day as economic fears mount, reminiscent of the early financial turmoil caused by the pandemic.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Finance", "Economy"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Washington Times",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "stories": [
+      {
+        "headline": "Judge finds ‘America First’ biased vs. illegals",
+        "summary": "A federal judge has ruled against the 'America First' immigration policy deeming it biased against Venezuelans, affecting deportation policies.",
+        "sentiment": "negative",
+        "people": ["Kristi Noem", "Donald Trump"],
+        "categories": ["Politics", "Immigration"]
+      },
+      {
+        "headline": "Kfar Aza residents scarred by Hamas try to rebuild lives",
+        "summary": "Residents of Kfar Aza, impoverished by Hamas assaults, attempt recovery amidst extensive destruction and lasting scars from conflict.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Recovery", "Middle East", "Conflict"]
+      },
+      {
+        "headline": "Bibas family cousin says Gaza residents have blood on hands",
+        "summary": "A family cousin responds emotionally to Hamas's kidnapping of Israeli hostages, asserting collective Gaza resident responsibility.",
+        "sentiment": "negative",
+        "people": ["Yosi Shnaider", "Shiri Bibas", "Ariel Bibas", "Kfir Bibas"],
+        "categories": ["Middle East", "Conflict"]
+      },
+      {
+        "headline": "White House denies rumors of Musk departure",
+        "summary": "The White House dispels rumors around Elon Musk's departure from government cost-cutting programs amid budgetary pressures.",
+        "sentiment": "neutral",
+        "people": ["Elon Musk", "Donald Trump"],
+        "categories": ["Accountability", "Politics"]
+      },
+      {
+        "headline": "Tariffs trigger market crash, global furor",
+        "summary": "Wall Street suffers significant losses as President Trump's tariff plans shake global markets, marking the worst day on Wall Street since 2020.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Emmanuel Macron", "Joshua Bolten"],
+        "categories": ["Commerce", "Economy"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Indianapolis Star",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "stories": [
+      {
+        "headline": "Inside",
+        "summary": "The National Weather Service is signaling possible flooding across Indianapolis due to upcoming heavy rainfall expected within days.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Weather", "Safety"]
+      },
+      {
+        "headline": "Indianapolis storms bring flood watch for area through Sunday",
+        "summary": "Storm conditions have placed Indianapolis under a flood watch until Sunday due to persistent rain, increasing concerns about local flooding.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Weather", "Safety"]
+      },
+      {
+        "headline": "Beckwith plans to cut costs amid backlash",
+        "summary": "Following controversy over an expensive SUV purchase, Lt. Gov. Beckwith announces efforts to reduce governmental spending, likely as an attempt to appease public disapproval.",
+        "sentiment": "neutral",
+        "people": ["Lt. Gov. Beckwith"],
+        "categories": ["Budget", "Politics"]
+      },
+      {
+        "headline": "Purchases of luxury vehicles criticized",
+        "summary": "State officials' recent purchase of luxury vehicles funded by taxpayers sparks criticism over the appropriateness of governmental spending.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Government Spending", "Public Opinion"]
+      },
+      {
+        "headline": "Significant damage seen; at least one person killed",
+        "summary": "Severe storms traversed Central Indiana causing flooding, power outages, and at least one death, highlighting the ferocity of the weather event.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Weather", "Safety"]
+      },
+      {
+        "headline": "Spreen is ready to come home by joining IU basketball team",
+        "summary": "Spreen is set to return home and join the Indiana University basketball team, signaling a promising addition to IU's lineup.",
+        "sentiment": "positive",
+        "people": ["Spreen"],
+        "categories": ["Sports"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Portland Press Herald",
+    "city": "Portland",
+    "state": "Maine",
+    "stories": [
+      {
+        "headline": "Maine immigrants – undocumented or not – wary as enforcement rises",
+        "summary": "Immigrants in Maine, documented and undocumented, face heightened fears due to an increase in enforcement actions under recent immigration policies.",
+        "sentiment": "negative",
+        "people": ["Jose Luis Matute-Duarte"],
+        "categories": ["Immigration", "Law Enforcement"]
+      },
+      {
+        "headline": "Bill introduced to kill Gorham connector, reverse land sales",
+        "summary": "Legislation has been proposed to terminate the construction of the Gorham connector, reversing previous land agreements.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Infrastructure", "Politics"]
+      },
+      {
+        "headline": "Police: Sabattus shooter likely suffering mental health crisis",
+        "summary": "Authorities suspect the Sabattus shooter was experiencing a mental health crisis during the incident involving multiple victims.",
+        "sentiment": "negative",
+        "people": [
+          "James Davis III",
+          "Christine Smith",
+          "William Ross",
+          "Michael Sauschuck"
+        ],
+        "categories": ["Mental Health", "Crime"]
+      },
+      {
+        "headline": "There are no winners in trade and tariff wars",
+        "summary": "Global leaders criticize tariffs imposed by President Donald Trump, fearing a repeat of economic turmoil similar to the 2020 pandemic-induced crash.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "International Relations"]
+      },
+      {
+        "headline": "Golden defends tariffs, breaking with party",
+        "summary": "Congressman Golden supports recent tariffs opposing party stance, dismissing concerns of rising costs expressed by Senator Collins.",
+        "sentiment": "neutral",
+        "people": ["Rep. Jared Golden", "Sen. Susan Collins"],
+        "categories": ["Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Los Angeles Times",
+    "city": "Los Angeles",
+    "state": "California",
+    "stories": [
+      {
+        "headline": "From federal jail, he ran Pomona fiefdom",
+        "summary": "A report uncovered the story of a Mexican Mafia leader who managed criminal operations from federal prison, significantly influencing gang dynamics in Pomona.",
+        "sentiment": "negative",
+        "people": ["Mexican Mafia"],
+        "categories": ["Local News", "Crime"]
+      },
+      {
+        "headline": "With legal aid under threat, more children at risk of deportation",
+        "summary": "Due to reduced legal aid resources by the Trump administration, there is an increased risk that unaccompanied immigrant children will be deported.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Human Rights", "Immigration", "Politics"]
+      },
+      {
+        "headline": "Trump tariffs send stocks plunging",
+        "summary": "Stocks plunged significantly after tariffs announced by the Trump administration increased fears of trade wars and economic instability.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Trade", "Politics", "Economy"]
+      },
+      {
+        "headline": "Confusion over what president aims to achieve",
+        "summary": "President Trump's recent tariffs announcement has caused widespread confusion regarding his objectives, leading businesses to scramble.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Politics", "Economy"]
+      },
+      {
+        "headline": "Region's dual port complex could be hit hard",
+        "summary": "Economists predict a downturn for the Los Angeles port complex due to decreased imports and exports related to the new tariffs.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Economy", "Trade"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Santa Fe New Mexican",
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "stories": [
+      {
+        "headline": "Rules on building at LANL get eased",
+        "summary": "The Department of Energy eases some construction regulations at LANL to accelerate infrastructure development and efficiency improvements at national labs.",
+        "sentiment": "positive",
+        "people": ["Chris Wright"],
+        "categories": ["policy", "economy"]
+      },
+      {
+        "headline": "Stunned world reckons with Trump tariffs",
+        "summary": "The global markets react negatively to Trump tariffs, witnessing significant stock drops. Nations worldwide consider retaliatory measures, raising concerns among U.S. corporations and economic observers.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["politics", "economy"]
+      },
+      {
+        "headline": "Educators to get pay boost, but some reforms stall",
+        "summary": "New Mexico educators receive salary increases through recent legislature, though additional educational reforms face obstacles.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["politics", "education"]
+      },
+      {
+        "headline": "Report: No error by driver in deadly wreck",
+        "summary": "Preliminary findings indicate no fault by the driver in a deadly crash investigation involving a city vehicle at a bus stop.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["transport", "public safety"]
+      },
+      {
+        "headline": "Is revival of manufacturing possible in United States?",
+        "summary": "An exploration into the potential resurgence of manufacturing in the U.S. mirrors historical approaches, tackling the viability amidst current economic conditions.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["manufacturing", "economy"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Star Tribune",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "stories": [
+      {
+        "headline": "Tariffs sink wealth worldwide",
+        "summary": "President Donald Trump's global tariff plan is heavily affecting financial markets as nations warn of retaliatory measures.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Politics", "Economy"]
+      },
+      {
+        "headline": "Trump meets with far-right activist, then fires six",
+        "summary": "President Trump dismissed several security officials after a controversial meeting raised loyalty concerns.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Security", "Politics"]
+      },
+      {
+        "headline": "Walz gets ready for federal aid cuts",
+        "summary": "Minnesota's Governor is preparing for uncertainty amid federal aid reduction impacting various state programs.",
+        "sentiment": "negative",
+        "people": ["Tim Walz"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Auditor: Gaps in guardian program",
+        "summary": "A state report details insufficient training and oversight in Minnesota's guardian program, affecting vulnerable adults.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Governance", "Social Issues"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Houston Chronicle",
+    "city": "Houston",
+    "state": "Texas",
+    "stories": [
+      {
+        "headline": "Forecast for 2025 hurricane season? Busy",
+        "summary": "Experts expect the 2025 hurricane season to be notably active, potentially resulting in numerous powerful storms.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Weather", "Environment"]
+      },
+      {
+        "headline": "Ex-deputy constable testifies in 2021 fatal club shooting",
+        "summary": "In a trial, a former deputy constable emotionally recounts his experience during a deadly shooting incident in 2021.",
+        "sentiment": "negative",
+        "people": ["Juquaim Barthen", "Eddie Miller", "Kareem Atkins"],
+        "categories": ["Judicial", "Crime"]
+      },
+      {
+        "headline": "Paxton crows about Biden DOJ decision",
+        "summary": "Texas Attorney General celebrates the Department of Justice ending an investigation, claiming it clears barriers for his political future.",
+        "sentiment": "positive",
+        "people": ["Ken Paxton"],
+        "categories": ["Government", "Politics"]
+      },
+      {
+        "headline": "Abbott targeting proposed community tied to mosque",
+        "summary": "Texas Governor Abbott is criticized for reposting a controversial video opposing an Islamic community near Dallas, accused of using state agencies against its development.",
+        "sentiment": "negative",
+        "people": ["Greg Abbott"],
+        "categories": ["Religion", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Tampa Bay Times",
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "stories": [
+      {
+        "headline": "Dow drops 1,600 as Trump tariffs shock Wall Street",
+        "summary": "The Dow plunged significantly due to concerns over President Trump's announcement of new tariffs, impacting global markets and various sectors heavily.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economic", "Politics"]
+      },
+      {
+        "headline": "Hurricane predictions released",
+        "summary": "Researchers anticipate an above-normal hurricane season, with predictions including 17 named storms and nine becoming hurricanes. The public is advised to remain alert amidst ongoing recovery efforts from previous storms.",
+        "sentiment": "neutral",
+        "people": ["Philip Klotzbach", "Bob Bunting"],
+        "categories": ["Weather", "Environment"]
+      },
+      {
+        "headline": "$22.5M for a new Tropicana Field roof approved",
+        "summary": "City council members authorized a $22.5 million expenditure for a new fiberglass roof at Tropicana Field, part of broader recovery efforts following Hurricane Milton. The project is expected to be completed by 2026.",
+        "sentiment": "positive",
+        "people": ["Brandi Gabbard", "Richie Floyd"],
+        "categories": ["Infrastructure", "Local Government"]
+      },
+      {
+        "headline": "Florida House to issue demand letters to agencies",
+        "summary": "The Florida House initiates inquiries into financial management across state agencies, aiming to potentially reduce the administration's spending. This is part of a broader legislative effort towards budget reform.",
+        "sentiment": "neutral",
+        "people": ["Gov. Ron DeSantis", "Jason Shoaf", "Daniel Perez"],
+        "categories": ["Finance", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Detroit Free Press",
+    "city": "Detroit",
+    "state": "Michigan",
+    "stories": [
+      {
+        "headline": "Stocks tank as market digests the tariffs' sting",
+        "summary": "The stock market plummeted yesterday in response to the new tariffs, causing concern over future economic growth.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Economy", "Finance"]
+      },
+      {
+        "headline": "After long early road trip, players set for homecoming",
+        "summary": "The Detroit Tigers return from a long away trip eager for their home opener, excited to reconnect with local fans at Comerica Park.",
+        "sentiment": "positive",
+        "people": ["Jake Rogers", "Riley Greene", "Kerry Carpenter"],
+        "categories": ["Sports"]
+      },
+      {
+        "headline": "Tigers ready to go for opener: 'It's a party'",
+        "summary": "Excitement grows for the Detroit Tigers' home opener at Comerica Park with players eager to play in front of their home fans.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Sports"]
+      },
+      {
+        "headline": "Wayne State engineering school lands $50M gift",
+        "summary": "Wayne State University's engineering school received a historic $50 million donation aimed at enhancing faculty support, student experiences, and local partnerships.",
+        "sentiment": "positive",
+        "people": [
+          "James Anderson",
+          "Patricia Anderson",
+          "David Ripple",
+          "Kimberly Andrews Espy",
+          "Ali Abolmaali"
+        ],
+        "categories": ["Education", "Local News"]
+      },
+      {
+        "headline": "Nations vow retaliation; recession fears rise",
+        "summary": "In response to tariffs imposed by the US, several countries have promised retaliation, sparking concerns over a potential global recession.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "International Relations"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Boston Globe",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "stories": [
+      {
+        "headline": "Behind Trump’s rosy vision of a windfall, a goal of funding tax-cut extension",
+        "summary": "President Trump's optimistic perspective on new tariffs hides Republican plans to use increased revenue for further tax cuts.",
+        "sentiment": "neutral",
+        "people": ["President Trump"],
+        "categories": ["Politics", "Economy"]
+      },
+      {
+        "headline": "Trump administration demands Harvard end DEI, toughen student discipline",
+        "summary": "The Trump administration instructs Harvard University to stop diversity initiatives and enforce stricter student disciplinary measures.",
+        "sentiment": "negative",
+        "people": ["President Trump"],
+        "categories": ["Education", "Politics"]
+      },
+      {
+        "headline": "Caught off guard by scope of changes, N.E. retailers fear they’ll have to raise prices",
+        "summary": "New England retailers worry about increased prices following unexpected scope of President Trump’s tariff policy.",
+        "sentiment": "negative",
+        "people": ["President Trump"],
+        "categories": ["Retail", "Economy"]
+      },
+      {
+        "headline": "Tariffs shake the world",
+        "summary": "President Trump's global tariffs result in dramatic market falls and economic panic worldwide, with consumers bracing for the financial impact.",
+        "sentiment": "negative",
+        "people": [
+          "President Trump",
+          "Ursula von der Leyen",
+          "Emmanuel Macron"
+        ],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Red tape hampers marijuana pardons",
+        "summary": "Thousands of Massachusetts residents continue to face barriers as records remain unchanged after receiving blanket marijuana possession pardons.",
+        "sentiment": "negative",
+        "people": ["Governor Maura Healey"],
+        "categories": ["Law", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Arizona Republic",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "stories": [
+      {
+        "headline": "Club hires new security after guard punched man who died",
+        "summary": "A Phoenix nightclub has employed a new licensed security firm after an incident in which an unlicensed guard punched a man who later died.",
+        "sentiment": "negative",
+        "people": ["Rafael Montoya"],
+        "categories": ["crime", "security", "local news"]
+      },
+      {
+        "headline": "Visas revoked in Arizona",
+        "summary": "Arizona public universities revoke eight international student visas after an investigation.",
+        "sentiment": "neutral",
+        "people": ["Jay Thorne"],
+        "categories": ["education", "immigration"]
+      },
+      {
+        "headline": "Jaguars, mountain lion get new homes",
+        "summary": "The Phoenix Zoo launched a new $5.5 million habitat aimed at vastly improving the environment for its jaguars and mountain lions, marking a significant upgrade for the facility.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["zoology", "environment"]
+      },
+      {
+        "headline": "Stocks crater as nations vow retaliation",
+        "summary": "Global markets experienced severe declines as countries globally pledged retaliation to new tariff policies implemented by the U.S. President, raising recession fears.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["economics", "international relations"]
+      },
+      {
+        "headline": "Horne opponent sought",
+        "summary": "Search begins for a candidate to challenge Arizona Superintendent Tom Horne.",
+        "sentiment": "neutral",
+        "people": ["Tom Horne"],
+        "categories": ["local news", "politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "USA Today",
+    "city": "McLean",
+    "state": "Virginia",
+    "stories": [
+      {
+        "headline": "Kevin Bacon faces demons in new role",
+        "summary": "Kevin Bacon discusses his experience starring in the new show 'Bondsman', highlighting his affinity for horror and music.",
+        "sentiment": "positive",
+        "people": ["Kevin Bacon"],
+        "categories": ["Entertainment", "Life"]
+      },
+      {
+        "headline": "Who will be hero in March Madness?",
+        "summary": "An analysis of key players likely to lead their teams in the March Madness championships.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Sports"]
+      },
+      {
+        "headline": "Many are nervous about homebuying",
+        "summary": "A survey indicates most aspiring homeowners are concerned about housing costs.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Money", "Housing"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Detroit News",
+    "city": "Detroit",
+    "state": "Michigan",
+    "stories": [
+      {
+        "headline": "Vote fraud probe targets Hamtramck councilors",
+        "summary": "An investigation has been launched into allegations that Hamtramck City Council members and a former councilman conspired to fraudulently obtain absentee ballots.",
+        "sentiment": "negative",
+        "people": [
+          "Dana Nessel",
+          "Hassan",
+          "Alsoniri",
+          "Sadman",
+          "Musa",
+          "Choudhury",
+          "Slappey"
+        ],
+        "categories": ["politics", "crime"]
+      },
+      {
+        "headline": "Tariffpalooza won't change Detroit auto reality",
+        "summary": "Despite recent tariffs implemented by President Trump, industry analysts believe that the Detroit automotive industry’s challenges remain mostly unaffected.",
+        "sentiment": "neutral",
+        "people": ["Donald Trump"],
+        "categories": ["business", "economy"]
+      },
+      {
+        "headline": "State review: 15 probable non-citizens voted in '24",
+        "summary": "An extensive state review identified 15 individuals who allegedly voted without U.S. citizenship in the last presidential election.",
+        "sentiment": "neutral",
+        "people": ["Jocelyn Benson", "Haatonkya Gao", "Matthew Kavanaugh"],
+        "categories": ["elections", "politics"]
+      },
+      {
+        "headline": "Trump's Tariffs Rattle World",
+        "summary": "President Trump’s new tariffs have caused retaliatory measures from trading partners, plunging stock markets and prompting automotive plant shutdowns.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Mark Carney", "Michael M. Santiago"],
+        "categories": ["international", "economy", "politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Sacramento Bee",
+    "city": "Sacramento",
+    "state": "California",
+    "stories": [
+      {
+        "headline": "World reckons with economic fallout from Trump's tariffs",
+        "summary": "President Donald Trump's recent tariffs have sparked global concerns, with various countries and products facing significant impacts. The tariffs target key trade partners including the European Union, China, as well as Japan and South Korea, resulting in widespread economic uncertainty and potential price increases.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Howard Lutnick"],
+        "categories": ["Economy", "International"]
+      },
+      {
+        "headline": "Strategies for managing finances during Trump tariff era",
+        "summary": "Experts provide advice on financial management amidst economic shifts caused by President Trump's tariffs. The recommendations include careful financial planning, consideration of long-term goals, and close monitoring of markets and interest rates.",
+        "sentiment": "neutral",
+        "people": ["Donald Trump", "Brooke Rollins"],
+        "categories": ["Advice", "Finance"]
+      },
+      {
+        "headline": "UC Davis Law Students Protest Student Government's Suspension",
+        "summary": "UC Davis Law students organized a protest against the suspension of their student government, the LSA, due to its boycott against Israel. Students wore masks during the demonstration, voicing concerns over retaliation.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Education", "Protest"]
+      },
+      {
+        "headline": "Attendance dips for second A’s home game in West Sacramento",
+        "summary": "The second home game for the Athletics in West Sacramento experienced a noticeable decline in attendance. Ticket sales fell from the opening game, sparking conversations about local market dynamics and fan engagement.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Sports", "Local"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Dallas Morning News",
+    "city": "Dallas",
+    "state": "Texas",
+    "stories": [
+      {
+        "headline": "U.S. stocks slide on tariff worries",
+        "summary": "The S&P dropped significantly due to concerns over tariffs, marking its worst performance since the pandemic.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Stock Market", "Economy"]
+      },
+      {
+        "headline": "2 win James Beard nods",
+        "summary": "Two Dallas chefs are recognized by the James Beard Foundation, highlighting their culinary excellence.",
+        "sentiment": "positive",
+        "people": ["Rei Youkun"],
+        "categories": ["Culinary Arts", "Awards"]
+      },
+      {
+        "headline": "Impact of BCBS plan dispute",
+        "summary": "Insurance costs could rise for thousands due to a dispute over health services between medical providers and Blue Cross Blue Shield of Texas.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Healthcare", "Insurance"]
+      },
+      {
+        "headline": "Storms kill 7 in 3 states",
+        "summary": "Severe storms sweeping across Tennessee, Missouri, and Indiana resulted in multiple fatalities and widespread damage.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Weather", "Disaster"]
+      },
+      {
+        "headline": "Attorney hits back against probes",
+        "summary": "A prominent Texas attorney accuses others of gubernatorial hate speech amidst increasing state investigations.",
+        "sentiment": "negative",
+        "people": ["Greg Abbott", "Dan Cogdell"],
+        "categories": ["Politics", "Legal"]
+      },
+      {
+        "headline": "Shaken by sudden tragedy",
+        "summary": "A family is deeply affected by a tragic stabbing incident that occurred at a high school track event, resulting in great emotional distress.",
+        "sentiment": "negative",
+        "people": [
+          "Hunter Metcalf",
+          "Jeff Metcalf",
+          "Meghan Metcalf",
+          "Austin Metcalf"
+        ],
+        "categories": ["Family", "Crime"]
+      },
+      {
+        "headline": "Schools' grades can be released",
+        "summary": "Texas can now release the 2023 A-F academic accountability grades after a court ruling dismissed several lawsuits by districts including Dallas.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Education", "Legal"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Miami Herald",
+    "city": "Miami",
+    "state": "Florida",
+    "stories": [
+      {
+        "headline": "Another above-average hurricane season could be in store, early forecasts show",
+        "summary": "Experts predict an active hurricane season ahead, potentially surpassing normal levels, advising precaution and preparation for residents.",
+        "sentiment": "neutral",
+        "people": ["Phil Klotzbach"],
+        "categories": ["Safety", "Environment", "Weather"]
+      },
+      {
+        "headline": "Thousands march against gangs in Haiti as Vatican is notified of murder of two nuns",
+        "summary": "Thousands of Haitians marched to protest gang violence and demanded resignation of Haiti's current leadership, as the Vatican was informed about the killing of two nuns amidst the chaos.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Crime", "International", "Religion"]
+      },
+      {
+        "headline": "Florida attorney general's position on rifle sales is 'a gut punch,' former Parkland mayor says",
+        "summary": "The former mayor of Parkland expressed disappointment towards the stance of Florida's attorney general on rifle sales, highlighting feelings of distress within the community.",
+        "sentiment": "negative",
+        "people": ["Jeanette Nuñez", "James Uthmeier"],
+        "categories": ["Politics", "Community", "Public Safety"]
+      },
+      {
+        "headline": "What's next after Miami-Dade County Commission voted to take fluoride out of tap water?",
+        "summary": "Following a controversial vote by Miami-Dade County Commission to remove fluoride from public water, discussion turns to the possible consequences and next steps.",
+        "sentiment": "neutral",
+        "people": ["Raquel Regalado", "Kevin Cabrera", "Joseph Ladapo"],
+        "categories": ["Politics", "Public Health"]
+      },
+      {
+        "headline": "LOOKING TO MAKE A DEAL",
+        "summary": "Donald Trump arrived in Miami for a dinner at his Doral golf resort, notably discussing potential unification between LIV and PGA golf tournaments.",
+        "sentiment": "neutral",
+        "people": ["Donald Trump"],
+        "categories": ["Business", "Sport"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Seattle Times",
+    "city": "Seattle",
+    "state": "Washington",
+    "stories": [
+      {
+        "headline": "State AG wins again: For now, judge blocks Trump health cuts",
+        "summary": "A federal judge temporarily stops health budget cuts proposed by President Trump, benefiting many states including Washington.",
+        "sentiment": "positive",
+        "people": ["Donald Trump"],
+        "categories": ["Law", "Politics", "Health"]
+      },
+      {
+        "headline": "Dentistry on ice: How Kraken players earn 'hockey smiles'",
+        "summary": "Seattle Kraken hockey team members discuss dental injuries and their acceptance as part of hockey culture.",
+        "sentiment": "neutral",
+        "people": ["Jamie Oleksiak"],
+        "categories": ["Health", "Sports"]
+      },
+      {
+        "headline": "Some Seattle shoppers buying before tariffs kick in",
+        "summary": "Seattle residents rush to purchase items such as cars before new tariffs increase prices.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Local News", "Economy"]
+      },
+      {
+        "headline": "Cantwell: Congress must have greater say on tariffs",
+        "summary": "Senator Cantwell argues for congressional approval on tariffs, criticising the current administration's unilateral decision-making.",
+        "sentiment": "neutral",
+        "people": ["Chuck Grassley", "Donald Trump"],
+        "categories": ["Legislation", "Politics"]
+      },
+      {
+        "headline": "Wall Street slide takes toll on top Northwest businesses",
+        "summary": "A significant Wall Street drop, sparked by new tariffs announced by President Trump, greatly impacted leading Northwest businesses, including giants like Amazon and Microsoft.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Business", "Economy"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Grand Rapids Press",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "stories": [
+      {
+        "headline": "State lawmakers warn of higher costs after tariff announcement",
+        "summary": "Michigan lawmakers voiced concerns over new tariffs on imported cars imposed by the President, warning they will significantly raise consumer prices. The move directly affects local industries, especially automotive and agriculture, sparking vigorous political debate.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Mega Millions ticket price goes up in aim for bigger prizes",
+        "summary": "Mega Millions lottery is increasing ticket prices to $5 to create larger jackpots and enhance smaller prizes. The move includes a new multiplier feature to give players additional winnings and follows several changes to lottery structures designed to attract more players.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Lottery", "Economy"]
+      },
+      {
+        "headline": "Can 3D printed homes make the American Dream a reality?",
+        "summary": "Builders are using 3D printing technology to quickly churn out modular homes, hoping to alleviate the housing shortage and reduce rental prices. Proponents believe these homes could significantly impact the housing crisis by providing more affordable options.",
+        "sentiment": "positive",
+        "people": ["Adrianne Todman", "Joe Biden", "Eric Schaefer"],
+        "categories": ["Housing", "Technology"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Milwaukee Journal Sentinel",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "stories": [
+      {
+        "headline": "Winners, losers from Tuesday's election",
+        "summary": "Wisconsin's recent Supreme Court election has major implications, highlighting successes for liberals and potential concerns for conservative agendas.",
+        "sentiment": "neutral",
+        "people": ["Elon Musk", "Donald Trump", "Susan Crawford"],
+        "categories": ["Elections", "Politics"]
+      },
+      {
+        "headline": "EXTRAORDINARY",
+        "summary": "The election results for Wisconsin's Supreme Court indicate strength for liberal candidates, signaling potential challenges for Republicans moving forward.",
+        "sentiment": "neutral",
+        "people": ["Susan Crawford", "Elon Musk", "Donald Trump"],
+        "categories": ["Elections", "Politics"]
+      },
+      {
+        "headline": "Wisconsin will feel Trump tariffs",
+        "summary": "Wisconsin faces increased costs in imported materials as a result of tariffs introduced by the President, which could adversely affect local businesses and consumers.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Annex Wealth Management", "Erik Ernst"],
+        "categories": ["Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Lexington Herald-Leader",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "stories": [
+      {
+        "headline": "Senate Republicans get ready to roll on revised budget",
+        "summary": "The Republican-led Senate is preparing to debate and advance a revised budget blueprint, highlighting differences from earlier policies.",
+        "sentiment": "neutral",
+        "people": ["Lindsey Graham"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "World reckons with economic fallout from Trump's tariffs",
+        "summary": "Countries globally are experiencing significant economic disruptions as they deal with the ramifications of tariffs instituted by former President Trump.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["International News", "Economy"]
+      },
+      {
+        "headline": "Beshear joins 22 states suing over federal health cuts",
+        "summary": "Governor Beshear joins a multi-state legal action against the federal government's reduction of health funds originally allocated for COVID-related measures.",
+        "sentiment": "negative",
+        "people": ["Andy Beshear", "Donald Trump"],
+        "categories": ["Politics", "Health"]
+      },
+      {
+        "headline": "Several areas in Kentucky damaged by severe storms",
+        "summary": "Severe storms caused substantial damage and injuries in multiple areas across Kentucky, including collapsed roofs and tree falls resulting in at least five injuries.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Weather", "Local News"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Idaho Statesman",
+    "city": "Boise",
+    "state": "Idaho",
+    "stories": [
+      {
+        "headline": "OSHA drops citation against Inland Crane in hangar collapse",
+        "summary": "The federal regulatory agency OSHA has withdrawn its citation against Inland Crane, following a fatal construction incident near Boise Airport earlier, after an agreement to remove financial penalties was reached.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Construction", "Safety"]
+      },
+      {
+        "headline": "West Ada district to ‘discuss’ sign policy as backlash continues",
+        "summary": "West Ada School district is reconsidering their classroom sign policy following backlash about the removal of welcoming message signs, sparking debate over inclusivity and policy enforcement.",
+        "sentiment": "negative",
+        "people": ["Sarah Inama", "Clark Middle School", "Niki Scheppers"],
+        "categories": ["Policy", "Education"]
+      },
+      {
+        "headline": "ACHD censures commissioner for comments about legislators",
+        "summary": "Ada County Highway District resolved to censure Commissioner Kent Goldthorp for inappropriate posts and comments made towards Idaho lawmakers, accusing him of inflammatory language and derogatory statements.",
+        "sentiment": "negative",
+        "people": [
+          "Kent Goldthorp",
+          "Steve Price",
+          "Mike Moyle",
+          "Sonya Harris",
+          "Jason Monks"
+        ],
+        "categories": ["Politics"]
+      },
+      {
+        "headline": "Historic downtown Adelmann Building listed for sale",
+        "summary": "Boise's iconic Adelmann Building, an architectural gem built by German miner Richard Adelmann, is up for sale. With commercial retail spaces and historic value, current estimates suggest the building could be worth around $4.6 million.",
+        "sentiment": "neutral",
+        "people": ["Richard Adelmann"],
+        "categories": ["History", "Real Estate"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "St. Louis Post-Dispatch",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "stories": [
+      {
+        "headline": "Mail delays prompt call for an audit",
+        "summary": "Significant mail delays within the St. Louis postal service lead to urgent calls for an official audit to address issues.",
+        "sentiment": "negative",
+        "people": ["Henry Eirich"],
+        "categories": ["Audit", "Local news"]
+      },
+      {
+        "headline": "Mo. homes leveled by tornadoes",
+        "summary": "Family homes are destroyed in a devastating tornado in Missouri, prompting community efforts to recover remaining belongings.",
+        "sentiment": "negative",
+        "people": ["Chad Long"],
+        "categories": ["Natural Disaster", "Local news"]
+      },
+      {
+        "headline": "St. Louis ceremony brings joy, relief amid Trump crackdown",
+        "summary": "An immigrant from Vietnam experiences deep emotional fulfillment during a U.S. citizenship naturalization ceremony in St. Louis amid increased immigration restrictions.",
+        "sentiment": "positive",
+        "people": ["Hoa Le", "Dwight St. Louis", "Donald Trump"],
+        "categories": ["Local news", "Immigration", "Politics"]
+      },
+      {
+        "headline": "Trump's tariffs torpedo markets",
+        "summary": "Stock indexes face severe downturn, marking the worst dip since the 2020 pandemic crash, due to concerns about global economic impact from President Trump's recent tariffs.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Mary Ann Bartels", "Bhanu Baweja"],
+        "categories": ["Markets", "Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Chicago Tribune",
+    "city": "Chicago",
+    "state": "Illinois",
+    "stories": [
+      {
+        "headline": "Environmental ordinance prompts hopes, frustrations",
+        "summary": "An environmentally focused city ordinance aiming to improve discriminatory policies receives mixed reactions, highlighting collaboration and frustrations within the community and city council.",
+        "sentiment": "neutral",
+        "people": ["Brandon Johnson"],
+        "categories": ["Local Government", "Policy", "Environment"]
+      },
+      {
+        "headline": "Hitting the 'Homeschool Act'",
+        "summary": "The proposed 'Homeschool Act' requires Illinois homeschooling families to officially report to local school district or principals, garnering public attention.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Legislation", "Education"]
+      },
+      {
+        "headline": "Northwestern engineers develop tiny pacemaker",
+        "summary": "A groundbreaking pacemaker significantly smaller than a grain of rice has been developed at Northwestern University, potentially revolutionizing cardiac healthcare.",
+        "sentiment": "positive",
+        "people": ["Igor Efimov"],
+        "categories": ["Innovation", "Technology", "Health"]
+      },
+      {
+        "headline": "Markets plunge after Trump reveals tariffs",
+        "summary": "The global market suffers significant losses following Trump's unveiling of new tariffs, marking the worst financial day for S&P since 2020.",
+        "sentiment": "negative",
+        "people": ["Mary Ann Bartels", "Donald Trump"],
+        "categories": ["Finance", "Economy", "International Relations"]
+      },
+      {
+        "headline": "Was road to teachers union deal worth it?",
+        "summary": "Mayor Brandon Johnson's alliance with the Chicago Teachers Union faces critique as critics scrutinize the terms and broader ramifications of the recently concluded contract negotiations.",
+        "sentiment": "negative",
+        "people": [
+          "Brandon Johnson",
+          "Brian Hopkins",
+          "Pedro Martinez",
+          "Lori Lightfoot",
+          "Rahm Emanuel"
+        ],
+        "categories": ["Education", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Decatur Daily",
+    "city": "Decatur",
+    "state": "Alabama",
+    "stories": [
+      {
+        "headline": "Pentagon watchdog to review Signal use",
+        "summary": "The Pentagon's acting inspector general will review the Defense Secretary and other Pentagon officials' use of the Signal messaging app, impacting operational protocols.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["military", "technology"]
+      },
+      {
+        "headline": "Maker of Jeeps, Rams halts auto production",
+        "summary": "Stellantis, an automaker, is temporarily halting production in North American plants due to a newly imposed tariff on imported vehicles.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["business", "economy"]
+      },
+      {
+        "headline": "Huntsville lawyer ousted from TVA board",
+        "summary": "A Huntsville lawyer has been dismissed from the Tennessee Valley Authority board by President Trump, marking a significant change in the organization's structure.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["local", "politics"]
+      },
+      {
+        "headline": "Lots of local egg hunts coming up",
+        "summary": "In celebration of Easter, various communities and organizations in the Huntsville area are planning numerous exciting egg hunts.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["holiday", "community event"]
+      },
+      {
+        "headline": "Morgan Hall of Fame to induct Bob Godsey",
+        "summary": "Bob Godsey, known for his significant contributions to football coaching, will soon be inducted into the Morgan County Sports Hall of Fame, celebrating a successful career.",
+        "sentiment": "positive",
+        "people": ["Bob Godsey"],
+        "categories": ["local", "sports"]
+      },
+      {
+        "headline": "GOP lawmakers back Trump's sweeping tariffs",
+        "summary": "Republican lawmakers from Alabama back President Trump's extensive tariffs on imported goods, aiming to leverage potential economic gains despite widespread criticism.",
+        "sentiment": "neutral",
+        "people": ["Donald Trump"],
+        "categories": ["government", "politics"]
+      },
+      {
+        "headline": "Tariffs a race against time, voter backlash",
+        "summary": "President Trump's extensive tariffs face scrutiny from voters as prices rise, impacting both the economy and his re-election prospects. The future and sustainability of these tariffs remain uncertain.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["economy", "politics"]
+      },
+      {
+        "headline": "Sex offender charged with not registering",
+        "summary": "A convicted sex offender, previously implicated in a serious child pornography case, faces charges for not updating his registration following a relocation.",
+        "sentiment": "negative",
+        "people": ["Walter Scott Simpson"],
+        "categories": ["local", "crime"]
+      },
+      {
+        "headline": "Retail spaces remain empty",
+        "summary": "Numerous retail spots in downtown Decatur are still vacant months after the parking deck's opening. Efforts to generate interest have seen limited success with various challenges noted by stakeholders.",
+        "sentiment": "negative",
+        "people": ["Jeff Parker", "Dane Shaw", "Crystal Brown"],
+        "categories": ["business", "local"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Palm Beach Post",
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "stories": [
+      {
+        "headline": "Stocks in free fall as nations vow retaliation",
+        "summary": "Global stock markets are experiencing a downturn due to threats of retaliation from countries affected by the newly imposed U.S. tariffs.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Finance", "Economy", "International Relations"]
+      },
+      {
+        "headline": "Sunshine State was already in a place of economic uncertainty",
+        "summary": "Florida already faced economic challenges prior to new tariffs, primarily driven by policies from federal decisions impacting the local economy.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Forecast: No dip in hurricane activity",
+        "summary": "Despite expectations, the Atlantic hurricane activity is predicted to remain above normal, promising another challenging season.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Climate Change", "Weather", "Safety"]
+      },
+      {
+        "headline": "Tariffs hit Florida economy at challenging moment",
+        "summary": "New tariffs implemented by the U.S. government are impacting Florida's economy at a time of existing vulnerability, raising concerns over future economic stability.",
+        "sentiment": "negative",
+        "people": ["President Donald Trump"],
+        "categories": ["Trade", "Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Chattanooga Times Free Press",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "stories": [
+      {
+        "headline": "Worry over tariff effects sends markets tumbling",
+        "summary": "Stock markets decline significantly amid growing concern over the potential economic damage from new U.S. tariff policies.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["economy", "finance"]
+      },
+      {
+        "headline": "Areas with few exports confused by new tariffs",
+        "summary": "New tariffs from the U.S. administration cause confusion and concern among regions with limited exports, impacting various global economies.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["global", "economy"]
+      },
+      {
+        "headline": "Chattanooga named a National Park City",
+        "summary": "Chattanooga earns the distinction of becoming the first North American city named a National Park City, emphasizing community engagement and environmental initiatives.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["environment", "community"]
+      },
+      {
+        "headline": "Trump supports NATO, says US official",
+        "summary": "A U.S. official confirms the administration's continued support for NATO, addressing perceived inconsistencies in the President's statements.",
+        "sentiment": "neutral",
+        "people": ["Marco Rubio", "Matt Whitaker"],
+        "categories": ["international relations", "politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Anchorage Daily News",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "stories": [
+      {
+        "headline": "K-12 schools must certify they aren’t following DEI practices to get federal funding",
+        "summary": "The Education Department mandates K-12 schools affirm they do not employ Diversity, Equity, and Inclusion practices to qualify for federal support.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Education", "Politics"]
+      },
+      {
+        "headline": "Internal memo outlines stark impacts of federal cuts on Alaska regional fishery agency",
+        "summary": "Federal funding cuts cause severe staffing issues at NOAA Fisheries' Alaska Region, severely impacting their ability to support the commercial fishery industry, per an internal agency memo.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Environment", "Economy"]
+      },
+      {
+        "headline": "House panel advances draft budget with full PFD and $1.9B deficit",
+        "summary": "The Alaska House Finance Committee has moved forward a budget featuring a full Permanent Fund Dividend but also carries a significant $1.9 billion deficit.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Budget", "Politics"]
+      },
+      {
+        "headline": "Trump's tariff push is a race against time",
+        "summary": "The White House is betting that other countries will open their economies more fully before voter backlash increases, amid newly imposed expansive tariffs reversing prior global trends toward lower trade barriers.",
+        "sentiment": "neutral",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Austin American-Statesman",
+    "city": "Austin",
+    "state": "Texas",
+    "stories": [
+      {
+        "headline": "Stocks crater in reaction to tariffs",
+        "summary": "Global stocks have plunged after the announcement of increased tariffs imposed by former President Donald Trump, raising fears about potential economic recession. The response resulted in one of the worst stock market performances since 2020.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Finance", "Economy", "Politics"]
+      },
+      {
+        "headline": "Abbott: Bus operation set tone for '24 election",
+        "summary": "Governor Greg Abbott unveiled a bus operation tactic aimed at addressing migrant crossings, suggesting it helped shape political discourse ahead of the 2024 election. Abbott made his announcement while at the University of Texas Law School.",
+        "sentiment": "neutral",
+        "people": ["Greg Abbott", "Jim Davis"],
+        "categories": ["Election", "Immigration", "Politics"]
+      },
+      {
+        "headline": "Report: Feds drop Paxton probe",
+        "summary": "The U.S. Justice Department quietly dropped an investigation into Texas Attorney General Ken Paxton, according to an Associated Press report. This decision came months ago during the final weeks of the Biden administration and marked a turning point for Paxton.",
+        "sentiment": "neutral",
+        "people": [
+          "Ken Paxton",
+          "Dan Cogdill",
+          "John Cornyn",
+          "Joe Biden",
+          "Donald Trump"
+        ],
+        "categories": ["Justice", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Des Moines Register",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "stories": [
+      {
+        "headline": "US ups military presence in Middle East amid tension with Iran",
+        "summary": "The United States has increased its military presence in the Middle East, responding to Iran's nuclear threats and regional tensions, hinting at an escalation toward conflict.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Security", "Defense", "International Relations"]
+      },
+      {
+        "headline": "Economists fear recession on horizon",
+        "summary": "Experts express concern that the newly announced tariffs by President Trump could trigger an economic recession and undermine consumer confidence worldwide.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "International Relations"]
+      },
+      {
+        "headline": "Grassley wants congressional check on power to impose levies",
+        "summary": "Senator Grassley pushes for legislation requiring congressional approval for any new tariffs introduced by the President, aiming to regulate trade power and protect markets.",
+        "sentiment": "neutral",
+        "people": ["Chuck Grassley", "Donald Trump"],
+        "categories": ["Economy", "Politics"]
+      },
+      {
+        "headline": "Stocks crater on Trump's tariffs",
+        "summary": "A significant downturn in global stocks occurred after President Trump's announcement of new tariffs, highlighting growing concerns over trade wars and economic slowdowns.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Finance", "Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The New York Times",
+    "city": "New York",
+    "state": "New York",
+    "stories": [
+      {
+        "headline": "Adams to Run as Independent, Skirting Primary for 2nd Term",
+        "summary": "Mayor Eric Adams of New York plans to run as an independent candidate for reelection, bypassing the Democratic primary.",
+        "sentiment": "neutral",
+        "people": ["Eric Adams"],
+        "categories": ["Elections", "Politics"]
+      },
+      {
+        "headline": "Deadly Storm Batters the South and Midwest",
+        "summary": "A severe tornado hits Lake City, Arkansas, causing considerable damage and distress to local communities.",
+        "sentiment": "negative",
+        "people": ["Dylon Davies", "Skylar"],
+        "categories": ["Weather", "Natural Disasters"]
+      },
+      {
+        "headline": "U.S. Threatens School Funding Over Diversity",
+        "summary": "The Trump administration proposes withdrawing funding from schools that continue diversity programs, sparking controversy and legal concerns.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Education", "Politics"]
+      },
+      {
+        "headline": "Trump Fires 6 after Meeting With Activist",
+        "summary": "President Trump dismissed six National Security Council officials after discussions with activist Laura Loomer, sending shockwaves through the administration.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Laura Loomer"],
+        "categories": ["National Security", "Politics"]
+      },
+      {
+        "headline": "Tariff Shock Waves Circle The Globe",
+        "summary": "Stock markets globally were heavily impacted following tariffs imposed by President Trump and layoffs of federal workers, causing a sharp downturn.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Economy", "International Relations"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "San Francisco Chronicle",
+    "city": "San Francisco",
+    "state": "California",
+    "stories": [
+      {
+        "headline": "Oakland bungles budget, hits up voters",
+        "summary": "The city of Oakland faces budget mismanagement leading it to propose increased taxes, drawing criticism over fiscal responsibility and leadership accountability.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Local Government", "Politics"]
+      },
+      {
+        "headline": "'Monster in Mission' developer’s empire may be unraveling",
+        "summary": "A New York property developer with extensive holdings in San Francisco and nearby areas faces significant financial issues, indicating an unraveling of their real estate empire.",
+        "sentiment": "negative",
+        "people": ["Robert Rosania", "Martin Tomsingard"],
+        "categories": ["Real Estate", "Business"]
+      },
+      {
+        "headline": "Feds try to neuter sanctuary shields",
+        "summary": "The Trump administration is attempting to compromise California's sanctuary state laws using an IRS agreement, potentially weakening protections for undocumented immigrants in the region.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Immigration", "Politics"]
+      },
+      {
+        "headline": "Bracing for impact of Trump tariffs",
+        "summary": "President Donald Trump's tariffs might significantly disrupt California's agricultural economy, raising costs for various products including cars and prescriptions. Experts anticipate a wide range of economic repercussions for the state.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Agriculture", "Economy", "Politics"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Ithaca Journal",
+    "city": "Ithaca",
+    "state": "New York",
+    "stories": [
+      {
+        "headline": "Trump targets foes unlike any other modern president",
+        "summary": "Donald Trump aggressively pursues a strategy of targeting perceived adversaries through policy-making executive actions, affecting educational institutions and political opponents.",
+        "sentiment": "negative",
+        "people": [
+          "Donald Trump",
+          "Mukoma wa Ngugi",
+          "Sriram Parasuram",
+          "Chris Godshall-Bennett",
+          "Eric Lee"
+        ],
+        "categories": ["Executive power", "Government policy", "Politics"]
+      },
+      {
+        "headline": "Trump administration revises list of canceled federal leases in NY",
+        "summary": "The Trump administration increased the number of canceled federal leases in New York in an initiative partly symbolic but with noticeable impact on federal employees.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Federal government", "Government spending", "Politics"]
+      },
+      {
+        "headline": "Taal leaves country after ICE threats",
+        "summary": "A Cornell doctorate candidate leaves the US after threats of ICE detainment due to immigration orders, expressing disappointment over the situation.",
+        "sentiment": "negative",
+        "people": ["Momodou Taal"],
+        "categories": ["Legal issues", "Higher education", "Immigration"]
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "name": "The Philadelphia Inquirer",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "stories": [
+      {
+        "headline": "Another twist in the tale of a Pa. deer in dispute",
+        "summary": "The controversy over a Pennsylvania deer continues to unfold, adding complexities to an already intricate dispute involving local wildlife management practices.",
+        "sentiment": "neutral",
+        "people": [],
+        "categories": ["Wildlife", "Environment", "Local"]
+      },
+      {
+        "headline": "Tortoise hatchlings arrive at the zoo",
+        "summary": "New tortoise hatchlings arrived at a Philadelphia area zoo, marking an exciting development and boosting conservation efforts aimed at preserving these endangered species.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Conservation", "Environment", "Local"]
+      },
+      {
+        "headline": "Schools given 10 days to end 'DEI practices'",
+        "summary": "Schools have been directed to discontinue Diversity, Equity, and Inclusion (DEI) practices within a tight timeframe, signaling notable policy reversal and prompting widespread community response.",
+        "sentiment": "negative",
+        "people": [],
+        "categories": ["Education", "Politics"]
+      },
+      {
+        "headline": "After Phillies' sweep of Rockies, it's Sho-time",
+        "summary": "The Phillies achieved a remarkable sweep against the Rockies, highlighting an impressive performance that sets an optimistic tone for their upcoming games.",
+        "sentiment": "positive",
+        "people": [],
+        "categories": ["Sports"]
+      },
+      {
+        "headline": "'Jane Doe,' a missing SUV, and a mystery poodle",
+        "summary": "A recently disclosed vehicle crash involving a sheriff's office vehicle has led to unanswered questions, casting uncertainty on the internal procedures and transparency of the Philadelphia Sheriff's Office.",
+        "sentiment": "negative",
+        "people": ["Rochelle Bilal"],
+        "categories": ["Mystery", "Local", "Crime"]
+      },
+      {
+        "headline": "Philadelphia port braces for the tariffs’ effects",
+        "summary": "The Philadelphia seaport is set to experience significant operational disruptions due to Trump's tariffs, potentially impacting the import of produce, meat, and dairy from Central and South America.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Local", "Economy"]
+      },
+      {
+        "headline": "Trump purges Security Council aides",
+        "summary": "President Trump's administration dismissed multiple senior aides from the National Security Council following a controversial visit by a far-right activist urging staff reductions, marking a significant shift in internal policy direction.",
+        "sentiment": "negative",
+        "people": ["Donald Trump", "Laura Loomer"],
+        "categories": ["Government", "Politics"]
+      },
+      {
+        "headline": "Stocks fall sharply in response to tariffs",
+        "summary": "Financial markets experienced significant drops as fears grew over President Trump's tariffs, with the S&P 500 seeing its worst single-day loss since the start of the pandemic. This economic uncertainty spread globally, affecting markets from Europe to Asia.",
+        "sentiment": "negative",
+        "people": ["Donald Trump"],
+        "categories": ["Finance", "Economy"]
+      }
+    ]
+  }
+]

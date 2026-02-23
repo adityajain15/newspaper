@@ -1,0 +1,24 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Hourly scheduled task service",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "ml-distance": "^4.0.1",
+    "ml-hclust": "^3.1.0",
+    "ml-kmeans": "^6.0.0",
+    "ml-matrix": "^6.12.1",
+    "node-cron": "^3.0.3",
+    "openai": "^4.28.0",
+    "together-ai": "^0.13.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

@@ -1,0 +1,18 @@
+FROM node:22.14.0-alpine
+
+USER node
+
+RUN mkdir -p /home/node/code /home/node/db
+
+WORKDIR /home/node/code
+
+COPY --chown=node:node scheduler/package-lock.json scheduler/package.json ./
+
+RUN npm ci
+
+COPY --chown=node:node scheduler/ .
+
+# Copy the packages directory
+COPY --chown=node:node db /home/node/db
+
+CMD npm run dev
